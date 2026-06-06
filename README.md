@@ -49,11 +49,11 @@ Created by:
 
 - Codex × Kaan
 - Claude × Kesrie
-- Qwen × sl4sher
-- Suno × fx8320
-- Grok × simytna
-- Perplexity × sheepexx
-- Gemini × gdnoob25xd
+- Qwen × Sl4sher
+- Suno × FX8320
+- Grok × SimYtNa
+- Perplexity × sheepex_
+- Gemini × GDNoob25xd
 
 Special thanks to everyone providing feedback, testing charts, and helping shape the project.
 
