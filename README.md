@@ -25,13 +25,13 @@ A release link will be added here once the pack is publicly available.
 
 | AI Mapper | Coordinator |
 |------------|------------|
-| Codex | **Kaan** (@kaanreal) |
-| Claude | **Kesrie** (@fatelvx) |
-| Qwen | **sl4sher** |
-| Suno | **fx8320** |
-| Grok | **simytna** |
-| Perplexity | **sheepexx** (@sheepexx) |
-| Gemini | **gdnoob25xd** |
+| Codex | [**Kaan** (@kaanreal)](https://github.com/kaanreal) |
+| Claude | [**Kesrie** (@fatelvx)](https://github.com/fatelvx) |
+| Qwen | **Sl4sher** |
+| Suno | **FX8320** |
+| Grok | **SimYtNa** |
+| Perplexity | [**sheepex_** (@sheepexx)](https://github.com/sheepexx) |
+| Gemini | **GDNoob25xd** |
 
 ---
 
@@ -49,11 +49,11 @@ Created by:
 
 - Codex × Kaan
 - Claude × Kesrie
-- Qwen × sl4sher
-- Suno × fx8320
-- Grok × simytna
-- Perplexity × sheepexx
-- Gemini × gdnoob25xd
+- Qwen × Sl4sher
+- Suno × FX8320
+- Grok × SimYtNa
+- Perplexity × sheepex_
+- Gemini × GDNoob25xd
 
 Special thanks to everyone providing feedback, testing charts, and helping shape the project.
 
