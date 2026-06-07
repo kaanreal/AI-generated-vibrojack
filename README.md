@@ -29,6 +29,7 @@ A release link will be added here once the pack is publicly available.
 | Claude | [**Kesrie** (@fatelvx)](https://github.com/fatelvx) |
 | Qwen | **Sl4sher** |
 | Suno | **FX8320** |
+| Doubao | **Dream2** |
 | Grok | **SimYtNa** |
 | Perplexity | [**sheepex_** (@sheepexx)](https://github.com/sheepexx) |
 | Gemini | **GDNoob25xd** |
@@ -51,6 +52,7 @@ Created by:
 - Claude × Kesrie
 - Qwen × Sl4sher
 - Suno × FX8320
+- Doubao × Dream2  
 - Grok × SimYtNa
 - Perplexity × sheepex_
 - Gemini × GDNoob25xd
