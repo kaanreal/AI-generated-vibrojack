@@ -7,8 +7,9 @@
 #GENRE:;
 #CREDIT:Kaan;
 #MUSIC:2_cut.mp3;
-#BACKGROUND:bg.jpg;
-#BANNER:banner.jpg;
+#BACKGROUND:bg.png;
+#BANNER:bg.png;
+#CDTITLE:cdtitle.png;
 #OFFSET:0.465;
 #SAMPLESTART:23.464;
 #SAMPLELENGTH:10.000;
@@ -19,9 +20,9 @@
 #FGCHANGES:;
 #NOTES:
     dance-single:
-    180:
+    Kaan:
     Challenge:
-    15:
+    1:
     1.000,1.000,0.000,-0.000,0.500:
 0000
 0000
